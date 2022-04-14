@@ -1,0 +1,36 @@
+baseurl: https://example.org/
+title: Hello!
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2016 UBA | UNSAM | EcoFeminita'
+  description: Describe your website
+  email: you@yoursite.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - My name is Laia Domenech Burin. 
+    - I'm finishing my Sociology Licenciate degree at University of Buenos Aires, so I'm an almost social data scientist. 
+    - My main interest is applied data science for inequalities, gender studies and urban studies.
+    - Here are some of the projects I've worked on.
+  social:
+    email: email@example.com
+    facebook: full page or profile url in facebook
+    github: full profile url in github
+    gitlab: full profile url in gitlab
+    googleplus: full profile url in googleplus
+    instagram: full profile url in instagram
+    linkedin: full profile url in linkedin
+    stackoverflow: full profile url in stackoverflow
+    twitter: full profile url in twitter
+    whatsapp: wa.me service link
+    youtube: full profile url in youtube
+  style: default
