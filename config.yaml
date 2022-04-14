@@ -8,7 +8,7 @@ googleAnalytics: ''
 params:
   copyright: '&copy;2016 UBA | UNSAM | EcoFeminita'
   description: Describe your website
-  email: you@yoursite.com
+  email: laiadomenechburin@gmail.com
   navlinks:
     - home: yes
       name: Home
@@ -23,15 +23,8 @@ params:
     - My main interest is applied data science for inequalities, gender studies and urban studies.
     - Here are some of the projects I've worked on.
   social:
-    email: email@example.com
-    facebook: full page or profile url in facebook
-    github: full profile url in github
-    gitlab: full profile url in gitlab
-    googleplus: full profile url in googleplus
-    instagram: full profile url in instagram
-    linkedin: full profile url in linkedin
-    stackoverflow: full profile url in stackoverflow
-    twitter: full profile url in twitter
-    whatsapp: wa.me service link
-    youtube: full profile url in youtube
+    email: laiadomenechburin@gmail.com.com
+    github: https://github.com/ldmnch/
+    linkedin: https://www.linkedin.com/in/laia-domenech-burin-176b6017a/
+    twitter: https://twitter.com/layitx
   style: default
