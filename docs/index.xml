@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>How much does your period cost? Web application</title>
+      <title>How much does your period cost?</title>
       <link>https://ldmnch.github.io/layitx/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://ldmnch.github.io/layitx/portfolio/work2/</guid>
       <description>&lt;p&gt;Web application that calculates the cost of a year of menstrual cycle: based on quantities of periods, quantity of tampons or pads used per period and brands.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Topics of National Rock</title>
+      <link>https://ldmnch.github.io/layitx/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://ldmnch.github.io/layitx/portfolio/work3/</guid>
+      <description>&lt;p&gt;Is it possible to identify the stages of argentine rock by the topics its lyrics has along time? In this work we analyzed the relation between lyrics and history by natural language processing techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,7 +46,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldmnch.github.io/layitx/portfolio/work1/</guid>
-      <description>&lt;p&gt;Is it possible to construct relevant information about social representations regarding a specific theme using news reader’s comments? Which are the main topics discussed in news comments? How do these topics evolve over time? The aim of this paper is to present some preliminary results of an ongoing research addressing these questions using some novel data sources.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Is it possible to construct relevant information about social representations regarding a specific theme using news reader’s comments?&lt;/p&gt;</description>
     </item>
     
   </channel>
