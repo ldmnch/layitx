@@ -15,4 +15,3 @@ We presented a first approximation to the quantification of social representatio
 
 The full preprint for the paper is [here](https://osf.io/preprints/socarxiv/3pcdu/). 
 
-![1](/img/portfolio/work1.png)

@@ -13,4 +13,3 @@ I'm a research assistant at [factor~data (University of San Martín)](www.twitte
 
 Also, I am the coordinator of [Ecofeminita's](https://ecofeminita.com/ecofemidata/) data section, where we visualise gender inequality through the dissemination of data, statistics, academic content and original production aimed at all audiences.
 
-[1]: /img/about.jpg

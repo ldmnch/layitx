@@ -15,8 +15,8 @@ params:
       url: portfolio/
     - name: About
       url: about/
-    - name: Get in touch
-      url: contact/
+#    - name: Get in touch
+#      url: contact/
   sidebarAbout:
     - My name is Laia Domenech Burin. 
     - I'm finishing my Sociology Licenciate degree at University of Buenos Aires, so I'm an almost social data scientist. 
