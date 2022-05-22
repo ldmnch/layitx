@@ -6,11 +6,7 @@
     <description>Recent content on Hello!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="https://ldmnch.github.io/layitx/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://ldmnch.github.io/layitx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How much does your period cost?</title>
       <link>https://ldmnch.github.io/layitx/portfolio/work2/</link>
@@ -27,17 +23,6 @@
       
       <guid>https://ldmnch.github.io/layitx/portfolio/work3/</guid>
       <description>&lt;p&gt;Is it possible to identify the stages of argentine rock by the topics its lyrics has along time? In this work we analyzed the relation between lyrics and history by natural language processing techniques.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://ldmnch.github.io/layitx/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://ldmnch.github.io/layitx/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
