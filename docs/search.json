@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Programming from a Feminist Perspective\nEcofeminita (2022–Present)"
+  },
+  {
+    "objectID": "teaching.html#current-teaching-roles",
+    "href": "teaching.html#current-teaching-roles",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Programming from a Feminist Perspective\nEcofeminita (2022–Present)"
+  },
+  {
+    "objectID": "teaching.html#past-teaching-roles",
+    "href": "teaching.html#past-teaching-roles",
+    "title": "Teaching",
+    "section": "Past Teaching Roles",
+    "text": "Past Teaching Roles\n\nIntroduction to Data Visualization\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)\nAssistant Teacher: Introduction to Machine Learning\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)\nIntroduction to Data Processing with R for Criminal Statistics\nNational Ministry of Security, Argentina (2022–2024)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Laia Domenech Burin, a sociologist and data scientist dedicated to leveraging data for societal impact. I hold a Licentiate in Sociology from the University of Buenos Aires and am pursuing a Master’s in Data Science for Public Policy at the Hertie School of Governance.\nMy experience spans roles in academia, consulting, and advocacy. I am currently working as a Research Assistant at the LMU Munich, in cool projects as extracting CO2 emissions from company reports and digitization of building plans for sustainability measures. I am also interested in the analysis of hate speech and its relationship to new right-wing parties. Find my CV here.\nAs an educator, I teach Introduction to R for Social Scientists with a critic perspective."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "“Capturing and analyzing social representations.” A first application of natural language processing techniques to readers’ comments in COVID-19 news. Papeles de Trabajo, 15(28). ISSN: 1851-2577 (2023)\n\n\n\n\n\n“Gender biases and hate speech: Promoters and targets in the Argentinean political context.” Co-authored with Juan M. Pérez, Germán Rosati, and Diego Kozlowski (submitted 01/09/2023)."
+  },
+  {
+    "objectID": "publications.html#articles",
+    "href": "publications.html#articles",
+    "title": "Publications",
+    "section": "",
+    "text": "“Capturing and analyzing social representations.” A first application of natural language processing techniques to readers’ comments in COVID-19 news. Papeles de Trabajo, 15(28). ISSN: 1851-2577 (2023)\n\n\n\n\n\n“Gender biases and hate speech: Promoters and targets in the Argentinean political context.” Co-authored with Juan M. Pérez, Germán Rosati, and Diego Kozlowski (submitted 01/09/2023)."
+  },
+  {
+    "objectID": "publications.html#presentations",
+    "href": "publications.html#presentations",
+    "title": "Publications",
+    "section": "Presentations",
+    "text": "Presentations\n\nConferences\n\n“Ethics and gender in data science.” Women in Data Science, Catholic University of Córdoba (2023).\n“Oblivion and precariousness: Representations of paid and unpaid domestic work.” XI Conference of Young Researchers, IIGG, Buenos Aires, Argentina (2022).\n“Topics in Argentine rock and its changes over time.” 11th Conference on Sociology, University of La Plata, Buenos Aires, Argentina (2022).\n\n\n\nExhibitions\n\n“Social discourses and meanings around COVID-19.” 9th International Conference on Computational Social Science, Chicago, USA (2022)."
+  }
+]
