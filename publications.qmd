@@ -1,25 +1,38 @@
 ---
 title: "Publications"
 ---
+
 ## Articles
 
 ### Published
 - **"Capturing and analyzing social representations."** A first application of natural language processing techniques to readers’ comments in COVID-19 news. *Papeles de Trabajo*, 15(28). ISSN: 1851-2577 (2023)
 
-### In Review
-- **"Gender biases and hate speech: Promoters and targets in the Argentinean political context."** Co-authored with Juan M. Pérez, Germán Rosati, and Diego Kozlowski (submitted 01/09/2023).
+### In Production
+- **"Gender biases and hate speech: Promoters and targets in the Argentinean political context."** Co-authored with Juan M. Pérez, Germán Rosati, Magalí Rodriguez Pires, María Nanton and Diego Kozlowski. PLOS One.
 
 ---
 
 ## Presentations
 
-### Conferences
+### Symposia and Conferences
+
 - **"Ethics and gender in data science."** Women in Data Science, Catholic University of Córdoba (2023).
-- **"Oblivion and precariousness: Representations of paid and unpaid domestic work."** XI Conference of Young Researchers, IIGG, Buenos Aires, Argentina (2022).
-- **"Topics in Argentine rock and its changes over time."** 11th Conference on Sociology, University of La Plata, Buenos Aires, Argentina (2022).
+- **"Oblivion and precariousness: Representations of paid and unpaid domestic work in a segregated neighbourhood."** XI Conference of Young Researchers, IIGG, Buenos Aires, Argentina (2022).
+- **"Once again on the topics of Argentine rock and its changes over time."** Co-authored with Germán Rosati and Guido Weksler, 11th Conference on Sociology, University of La Plata, Buenos Aires, Argentina (2022).
+- **"The topics of national rock. A text-mining based approach."** XIV Conference of the Sociology Department, Faculty of Social Sciences - UBA, Buenos Aires, Argentina (2021).
+- **"Capturing and analyzing social representations. A first application of natural language processing techniques to readers' comments in COVID-19 news."** Co-authored with Germán Rosati, AGRANDA (Argentinean Symposium on Data Science and Big Data), JAIIO, Buenos Aires (2020).
 
-### Exhibitions
-- **"Social discourses and meanings around COVID-19."** 9th International Conference on Computational Social Science, Chicago, USA (2022).
+### Participation in Science and Technology Events
 
----
+#### Exhibitor
 
+- **"Social discourses and meanings around COVID-19. Natural Language Processing techniques to readers' comments in pandemic news."** Co-authored with Germán Rosati, 9th International Conference on Computational Social Science, Chicago, USA (2022).
+
+#### Organizer
+
+- **"(des)programando la (des)igualdad."**, Fondo de Cultura Económica, Buenos Aires, Argentina (2022).
+
+#### Moderator
+
+- **"XV Conference of the Sociology Department."** Faculty of Social Sciences - University of Buenos Aires (2023).
+- **"Feminist data for the development of public policies."** University of San Andrés, Buenos Aires, Argentina (2022).
