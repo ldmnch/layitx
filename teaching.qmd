@@ -4,23 +4,30 @@ title: "Teaching"
 
 ## Current Teaching Roles
 
-- **Introduction to Programming from a Feminist Perspective**  
-  Ecofeminita (2022–Present)
+-   [**Introduction to Programming from a Feminist Perspective**](https://github.com/caropradier/Curso-Ecofemidata)
+    -   Ecofeminita (2022–Present)
+    -   With Carolina Pradier
 
----
+------------------------------------------------------------------------
+
+## Teaching Materials
+
+-   [**Critical Computational Social Sciences**](https://critcss.github.io/CCSS/)
+    -   Co-developed with Diego Kozlowski, Natsumi Shokida, Carolina Pradier, Germán Rosati
+
+------------------------------------------------------------------------
 
 ## Past Teaching Roles
 
-- **Introduction to Data Visualization**  
-  Postgraduate Diploma in Computational Social Sciences  
-  Interdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)
+-   [**Introduction to Data Visualization**](https://github.com/DCSCyHD/modulo_2)
+    -   Postgraduate Diploma in Computational Social Sciences\
+    -   Interdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)
+    -   With Florencia Piñeyrúa
+-   [**Introduction to Machine Learning**](https://github.com/DCSCyHD/modulo_4)
+    -   Postgraduate Diploma in Computational Social Sciences
+    -   Interdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)
+    -   With Florencia Piñeyrúa
+-   [**Introduction to Data Processing with R for Criminal Statistics**](https://github.com/ldmnch/curso_min_seg)
+    -   National Ministry of Security, Argentina (2022–2023)
 
-- **Assistant Teacher: Introduction to Machine Learning**  
-  Postgraduate Diploma in Computational Social Sciences  
-  Interdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)
-  
-- **Introduction to Data Processing with R for Criminal Statistics**  
-  National Ministry of Security, Argentina (2022–2024)
-
-
----
+------------------------------------------------------------------------

@@ -4,21 +4,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Programming from a Feminist Perspective\nEcofeminita (2022–Present)"
+    "text": "Introduction to Programming from a Feminist Perspective\n\nEcofeminita (2022–Present)\nWith Carolina Pradier"
   },
   {
     "objectID": "teaching.html#current-teaching-roles",
     "href": "teaching.html#current-teaching-roles",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Programming from a Feminist Perspective\nEcofeminita (2022–Present)"
+    "text": "Introduction to Programming from a Feminist Perspective\n\nEcofeminita (2022–Present)\nWith Carolina Pradier"
   },
   {
     "objectID": "teaching.html#past-teaching-roles",
     "href": "teaching.html#past-teaching-roles",
     "title": "Teaching",
     "section": "Past Teaching Roles",
-    "text": "Past Teaching Roles\n\nIntroduction to Data Visualization\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)\nAssistant Teacher: Introduction to Machine Learning\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)\nIntroduction to Data Processing with R for Criminal Statistics\nNational Ministry of Security, Argentina (2022–2024)"
+    "text": "Past Teaching Roles\n\nIntroduction to Data Visualization\n\nPostgraduate Diploma in Computational Social Sciences\n\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)\n\nIntroduction to Machine Learning\n\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)\n\nIntroduction to Data Processing with R for Criminal Statistics\n\nNational Ministry of Security, Argentina (2022–2023)"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -61,5 +61,12 @@
     "title": "Publications",
     "section": "Presentations",
     "text": "Presentations\n\nConferences\n\n“Ethics and gender in data science.” Women in Data Science, Catholic University of Córdoba (2023).\n“Oblivion and precariousness: Representations of paid and unpaid domestic work.” XI Conference of Young Researchers, IIGG, Buenos Aires, Argentina (2022).\n“Topics in Argentine rock and its changes over time.” 11th Conference on Sociology, University of La Plata, Buenos Aires, Argentina (2022).\n\n\n\nExhibitions\n\n“Social discourses and meanings around COVID-19.” 9th International Conference on Computational Social Science, Chicago, USA (2022)."
+  },
+  {
+    "objectID": "teaching.html#teaching-materials",
+    "href": "teaching.html#teaching-materials",
+    "title": "Teaching",
+    "section": "Teaching Materials",
+    "text": "Teaching Materials\n\nCritical Computational Social Sciences\n\nCo-developed with Diego Kozlowski, Natsumi Shokida, Carolina Pradier, Germán Rosati"
   }
 ]
