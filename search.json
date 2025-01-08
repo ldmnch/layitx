@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Programming from a Feminist Perspective\n\nEcofeminita (2022–Present)\nWith Carolina Pradier"
+  },
+  {
+    "objectID": "teaching.html#current-teaching-roles",
+    "href": "teaching.html#current-teaching-roles",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Programming from a Feminist Perspective\n\nEcofeminita (2022–Present)\nWith Carolina Pradier"
+  },
+  {
+    "objectID": "teaching.html#teaching-materials",
+    "href": "teaching.html#teaching-materials",
+    "title": "Teaching",
+    "section": "Teaching Materials",
+    "text": "Teaching Materials\n\nCritical Computational Social Sciences\n\nCo-developed with Diego Kozlowski, Natsumi Shokida, Carolina Pradier, Germán Rosati"
+  },
+  {
+    "objectID": "teaching.html#past-teaching-roles",
+    "href": "teaching.html#past-teaching-roles",
+    "title": "Teaching",
+    "section": "Past Teaching Roles",
+    "text": "Past Teaching Roles\n\nIntroduction to Data Visualization\n\nPostgraduate Diploma in Computational Social Sciences\n\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2022–2024)\nWith Florencia Piñeyrúa\n\nIntroduction to Machine Learning\n\nPostgraduate Diploma in Computational Social Sciences\nInterdisciplinary School of Advanced Social Studies, University of San Martín (2021–2022)\nWith Florencia Piñeyrúa\n\nIntroduction to Data Processing with R for Criminal Statistics\n\nNational Ministry of Security, Argentina (2022–2023)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Laia Domenech Burin, a sociologist and data scientist dedicated to leveraging data for societal impact. I hold a Licentiate in Sociology from the University of Buenos Aires and am pursuing a Master’s in Data Science for Public Policy at the Hertie School of Governance.\nMy experience spans roles in academia, consulting, and advocacy. I am currently working as a Research Assistant at the LMU Munich, in cool projects as extracting CO2 emissions from company reports and digitization of building plans for sustainability measures. I am also interested in the analysis of hate speech and its relationship to new right-wing parties. Find my CV here.\nAs an educator, I teach Introduction to R for Social Scientists with a critic perspective."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "“Capturing and analyzing social representations.” A first application of natural language processing techniques to readers’ comments in COVID-19 news. Papeles de Trabajo, 15(28). ISSN: 1851-2577 (2023)\n\n\n\n\n\n“Gender biases and hate speech: Promoters and targets in the Argentinean political context.” Co-authored with Juan M. Pérez, Germán Rosati, Magalí Rodriguez Pires, María Nanton and Diego Kozlowski. PLOS One."
+  },
+  {
+    "objectID": "publications.html#articles",
+    "href": "publications.html#articles",
+    "title": "Publications",
+    "section": "",
+    "text": "“Capturing and analyzing social representations.” A first application of natural language processing techniques to readers’ comments in COVID-19 news. Papeles de Trabajo, 15(28). ISSN: 1851-2577 (2023)\n\n\n\n\n\n“Gender biases and hate speech: Promoters and targets in the Argentinean political context.” Co-authored with Juan M. Pérez, Germán Rosati, Magalí Rodriguez Pires, María Nanton and Diego Kozlowski. PLOS One."
+  },
+  {
+    "objectID": "publications.html#presentations",
+    "href": "publications.html#presentations",
+    "title": "Publications",
+    "section": "Presentations",
+    "text": "Presentations\n\nSymposia and Conferences\n\n“Ethics and gender in data science.” Women in Data Science, Catholic University of Córdoba (2023).\n“Oblivion and precariousness: Representations of paid and unpaid domestic work in a segregated neighbourhood.” XI Conference of Young Researchers, IIGG, Buenos Aires, Argentina (2022).\n“Once again on the topics of Argentine rock and its changes over time.” Co-authored with Germán Rosati and Guido Weksler, 11th Conference on Sociology, University of La Plata, Buenos Aires, Argentina (2022).\n“The topics of national rock. A text-mining based approach.” XIV Conference of the Sociology Department, Faculty of Social Sciences - UBA, Buenos Aires, Argentina (2021).\n“Capturing and analyzing social representations. A first application of natural language processing techniques to readers’ comments in COVID-19 news.” Co-authored with Germán Rosati, AGRANDA (Argentinean Symposium on Data Science and Big Data), JAIIO, Buenos Aires (2020).\n\n\n\nParticipation in Science and Technology Events\n\nExhibitor\n\n“Social discourses and meanings around COVID-19. Natural Language Processing techniques to readers’ comments in pandemic news.” Co-authored with Germán Rosati, 9th International Conference on Computational Social Science, Chicago, USA (2022).\n\n\n\nOrganizer\n\n“(des)programando la (des)igualdad.”, Fondo de Cultura Económica, Buenos Aires, Argentina (2022).\n\n\n\nModerator\n\n“XV Conference of the Sociology Department.” Faculty of Social Sciences - University of Buenos Aires (2023).\n“Feminist data for the development of public policies.” University of San Andrés, Buenos Aires, Argentina (2022)."
+  }
+]

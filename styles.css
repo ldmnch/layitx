@@ -1,0 +1,14 @@
+/* css styles */
+body {
+  background-color: #f9f9f9;
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: #3A6589;
+  font-family: 'DM Serif Text', serif;
+}
+
+.navbar {
+  background-color: #B2432F;
+}
